@@ -1,9 +1,6 @@
 Project Nova Offsets @.jeremyontop 7.40
 
 
-
-
-
 namespace Offsets {
     uintptr_t OwningGameInstance = 0x160;
     uintptr_t LocalPlayers = 0x38;
