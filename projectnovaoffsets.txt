@@ -20,6 +20,6 @@ namespace Offsets {
     uintptr_t RelativeRotation = 0x170;
     uintptr_t CurrentWeapon = 0x820;
     uintptr_t PlayerState = 0x350;
-    uintptr_t Mesh = 0x5A0;
+    uintptr_t Mesh = 0x390;
     uintptr_t TeamIndex = 0xCA0;
 }
